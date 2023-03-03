@@ -1,0 +1,184 @@
+2023.02.27 15:58:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\.metals\lsp.trace.json or C:\Users\lucng\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.27 15:58:23 INFO  logging to file C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\.metals\metals.log
+2023.02.27 15:58:23 INFO  Started: Metals version 0.11.10 in workspace 'C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/lucng/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.27 15:58:33 INFO  time: initialize in 10s
+2023.02.27 15:58:36 WARN  Build server is not auto-connectable.
+2023.02.27 15:58:36 WARN  no build tool detected in workspace 'C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.27 15:58:36 WARN  no build tool detected in workspace 'C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.27 15:58:36 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\testCheckSum.scala
+2023.02.27 15:58:36 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\index.scala
+2023.02.27 15:59:39 INFO  no build target found for C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\testCheckSum.scala. Using presentation compiler with project's scala-library version: 3.2.1
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+févr. 27, 2023 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+févr. 27, 2023 3:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+févr. 27, 2023 3:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+févr. 27, 2023 3:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 88
+févr. 27, 2023 3:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 87
+févr. 27, 2023 3:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+févr. 27, 2023 3:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+2023.02.27 15:59:44 INFO  time: code lens generation in 1m7s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.87s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.97s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.92s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.79s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.29s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.31s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.25s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.02s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.22s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.34s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.22s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.7s
+2023.02.27 15:59:44 INFO  time: code lens generation in 2.52s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.04s
+2023.02.27 15:59:44 INFO  time: code lens generation in 3.15s
+2023.02.27 16:02:15 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\testCheckSum.scala
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.9/scalafmt-core_2.13-3.5.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.9/scalafmt-core_2.13-3.5.9.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.12/scalameta_2.13-4.5.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.9/scalafmt-sysops_2.13-3.5.9.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.9/scalafmt-config_2.13-3.5.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.12/scalameta_2.13-4.5.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.9/scalafmt-config_2.13-3.5.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.9/scalafmt-sysops_2.13-3.5.9.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.12/parsers_2.13-4.5.12.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.12/parsers_2.13-4.5.12.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.12/trees_2.13-4.5.12.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.12/trees_2.13-4.5.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.12/common_2.13-4.5.12.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.12/common_2.13-4.5.12.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.12/scalameta_2.13-4.5.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.12/parsers_2.13-4.5.12.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.9/scalafmt-config_2.13-3.5.9.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.9/scalafmt-config_2.13-3.5.9.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.9/scalafmt-core_2.13-3.5.9.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.12/scalameta_2.13-4.5.12.jar (96,30 %, 762432 / 791731)
+https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.12/parsers_2.13-4.5.12.jar (68,25 %, 854400 / 1251801)
+https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar (52,24 %, 903552 / 1729586)
+https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar (36,58 %, 1379904 / 3772083)
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.9/scalafmt-core_2.13-3.5.9.jar (25,16 %, 523791 / 2082225)
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar (4,05 %, 490098 / 12097183)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.12/parsers_2.13-4.5.12.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+2023.02.27 16:02:53 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\testCheckSum.scala
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.12/scalameta_2.13-4.5.12.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.9/scalafmt-sysops_2.13-3.5.9.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.9/scalafmt-sysops_2.13-3.5.9.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.12/trees_2.13-4.5.12.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.12/common_2.13-4.5.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.9/scalafmt-core_2.13-3.5.9.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.12/common_2.13-4.5.12.jar (72,87 %, 1742848 / 2391658)
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.12/trees_2.13-4.5.12.jar (71,62 %, 3128960 / 4368574)
+https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar (50,16 %, 3011392 / 6003601)
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar (30,60 %, 3701362 / 12097183)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.12/common_2.13-4.5.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.12/trees_2.13-4.5.12.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar (95,46 %, 5731136 / 6003601)
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar (53,76 %, 6503026 / 12097183)
+
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar (81,25 %, 9828978 / 12097183)
+
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+2023.02.27 16:03:38 ERROR scalafmt: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\testCheckSum.scala:5: error: [dialect scala213] <- expected but ) found
+        for (arg <= args) <- {
+                        ^
+2023.02.27 16:14:37 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\index.scala
+févr. 27, 2023 4:16:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+févr. 27, 2023 4:16:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2023.02.27 16:22:21 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\index.scala
+2023.02.27 16:22:27 WARN  no build target for: C:\Users\lucng\OneDrive\Bureau\Projet-Final-Apache-Spark\scala\index.scala
+2023.02.27 16:35:45 INFO  shutting down Metals
